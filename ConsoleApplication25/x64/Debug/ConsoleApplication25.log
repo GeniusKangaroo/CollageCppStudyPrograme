@@ -1,0 +1,4 @@
+﻿  ConsoleApplication25.cpp
+D:\Study\Cprogram\cppHomeWork\ConsoleApplication25\ConsoleApplication25.cpp(8,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Study\Cprogram\cppHomeWork\ConsoleApplication25\ConsoleApplication25.cpp(22,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  ConsoleApplication25.vcxproj -> D:\Study\Cprogram\cppHomeWork\ConsoleApplication25\x64\Debug\ConsoleApplication25.exe
